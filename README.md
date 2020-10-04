@@ -2,12 +2,12 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/39415174/83923322-5f890f80-a758-11ea-88fa-9df8c50630b9.png" width="160px" />
 </p>
 <p align="center">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/doli82/nlw-01?style=plastic" />
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/doli82/nlw-01?color=brightgreen&style=plastic" />    
-  <a href="https://www.linkedin.com/in/doli/">
-    <img alt="Made by Daniel Oliveira" src="https://img.shields.io/badge/made%20by-90sRehem-important?style=plastic">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/E-coleta?style=plastic" />
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/90sRehem/E-coleta?color=brightgreen&style=plastic" />    
+  <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/">
+    <img alt="Made by Jonathan Rehem" src="https://img.shields.io/badge/made%20by-90sRehem-important?style=plastic">
   </a>
-  <a href="https://github.com/doli82/nlw-01/commits/master">
+  <a href="https://github.com/90sRehem/E-coleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0?style=plastic">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=plastic">
@@ -122,7 +122,7 @@ Confira a lista completa de tecnologias utilizadas no arquivo `package.json`, pr
 ## Preview
 Olha só como ficou:
 
-![doli82-ecoleta](https://user-images.githubusercontent.com/39415174/83953042-97a15880-a813-11ea-9813-71ed48446b2c.gif)
+![90sRehem/E-coleta](https://user-images.githubusercontent.com/39415174/83953042-97a15880-a813-11ea-9813-71ed48446b2c.gif)
 
 A API implementada no backend não possui interface gráfica própria. Para ver como ficou, confira o código aqui no repositório.
 
